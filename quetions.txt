@@ -1,0 +1,50 @@
+1. boldfit.pdf
+Q1: What are the three key modules of the dashboard?
+
+Q2: What are the specific metrics tracked for Amazon Ads?
+
+
+2. Fabric_Not_So_Much_Fabric-04_12_25 1.pptx
+Q1: What are the four key "Data Architecture Principles" listed?
+
+Q2: Explain the difference between Data Fabric and Data Mesh based on the presentation.
+
+Q3: What are the top use cases for Fabric across domains?
+
+Q4: What does the "OneLake" feature provide?
+
+Q5: What are the components of "Data Quality and Maintenance"?
+
+3. Finance_data.csv (SQL Agent Test)
+Q1: What is the gender distribution of the investors? 
+
+Q2: What is the most common "Objective" for investment?
+
+Q3: List the top 3 sources where investors get their information.
+
+Q4: What is the average age of investors who chose "Equity" as their avenue?
+
+Q5: How many investors monitor their investments "Weekly"?
+
+4. Student Master.xlsx - Sheet1.csv (SQL Agent Test)
+Q1: How many students are there in the BDS department?
+
+Q2: List all students who belong to the "OEC" category.
+
+Q3: What is the breakdown of students by "Year"?
+
+Q4: How many students receive Government Aid (Gov Aid = 1)?
+
+
+
+5. Walkaroo Production Planning - Documentation (1).pdf
+Q1: What are the two main types of orders described in the document?
+
+Q2: In walkaroo what does UDS means
+
+Q3: How much time is required for a single mold change?
+
+Q4: What are the challenges related to "Color Specifications" for Walkaroo production planning
+
+Q5: Explain the "Injection Cycle Details" and how many injections occur in one hour for walkaroo production
+
