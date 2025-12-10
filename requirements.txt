@@ -13,3 +13,4 @@ pytesseract
 streamlit
 python-dotenv
 watchdog
+langchain_unstructured
