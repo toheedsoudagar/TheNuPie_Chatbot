@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-chroma
+langchainhub
+SQLAlchemy
+pandas
+pypdf
+unstructured
+pdf2image
+pytesseract
+streamlit
+python-dotenv
+watchdog
